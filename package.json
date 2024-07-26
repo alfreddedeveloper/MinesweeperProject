@@ -1,0 +1,15 @@
+{
+  "name": "minesweeperproject",
+  "version": "1.0.0",
+  "main": "MinesweeperProject.js",
+  "scripts": {
+    "test": "MinesweeperProject.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
